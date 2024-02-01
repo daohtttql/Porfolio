@@ -7,4 +7,4 @@ Các chứng chỉ đạt được:
 
 
 ## Project 2: Report phân tích Quản lý bán hàng
-
+Dashboard that support strategic decision making
