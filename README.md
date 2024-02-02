@@ -7,4 +7,5 @@ Các chứng chỉ đạt được:
 
 
 ## Project 2: Report phân tích Quản lý bán hàng
-Dashboard that support strategic decision making
+Dashboard that support strategic decision making 
+<file alt="" scr="https://github.com/daohtttql/Porfolio/blob/main/dashboard%20Sales%20support%20strategic%20decision%20making.pbix">
